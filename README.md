@@ -6,7 +6,7 @@
 
 `docker run [yourusername]/nodedocker`
 
-##Port mapping 
+## Port mapping 
 Port mapping is done runtime not in Dcoker file
 
 docker run -p 8080:8080 [yourusername]/nodedocker
