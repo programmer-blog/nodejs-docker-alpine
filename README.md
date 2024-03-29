@@ -15,6 +15,9 @@ docker run -p 8080:8080 [yourusername]/nodedocker
 ## To open the shell
 
 `docker run -it [yourusername]/nodedocker sh`
+
+### Docker exec command can also open shell
+
 `docker exec -t [containerid] sh`
 
 Run `docker ps` to list and get container id
