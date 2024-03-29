@@ -1,4 +1,4 @@
-# Basic NodeJS with Docker 
+# NodeJS Alpine Docker image - Basic app
 
 ## Comand to build and run image
 
